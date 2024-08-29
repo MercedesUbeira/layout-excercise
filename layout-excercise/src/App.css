@@ -1,11 +1,9 @@
-/* Base styling for the app */
-.appCss {
+.appCss { /*need to change the name of this classsss*/
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
-/* Navigation bar styling */
 nav {
   background-color: #9bbfc5;
   padding: 10px;
@@ -13,7 +11,6 @@ nav {
   width: 100%;
 }
 
-/* Header styling */
 header {
   background-color: #284b63;
   color: white;
@@ -23,30 +20,29 @@ header {
   width: 100%;
 }
 
-/* Main content area styling */
+
 main {
   display: flex;
   flex: 1;
   width: 100%;
 }
 
-/* Column styling for the main content area */
+
 .column {
   background-color: #9bbfc5;
-  width: 25%; /* Width for side columns */
+  width: 25%; 
   padding: 20px;
   box-sizing: border-box;
 }
 
-/* Middle column styling */
 .column-center {
   background-color: #f0f0f0;
-  width: 50%; /* Width for the center column */
+  width: 50%; 
   padding: 20px;
   box-sizing: border-box;
 }
 
-/* Footer styling */
+
 footer {
   background-color: #284b63;
   color: white;
