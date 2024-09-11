@@ -1,5 +1,5 @@
-.appCss { /*need to change the name of this classsss*/
-  display: flex;
+/* .appCss {  */
+  /* display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
@@ -50,3 +50,60 @@ footer {
   padding: 10px 0;
   width: 100%;
 }
+ */
+/* Catapults */
+.catapults {
+  color: #222222;
+  font-size: 14px;
+  font-family: 'Poppins';
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* 2-6 */
+.two-six {
+  color: rgba(0, 0, 0, 0.80);
+  font-size: 10px;
+  font-family: 'Poppins';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* 20’ */
+.twenty {
+  color: rgba(0, 0, 0, 0.80);
+  font-size: 10px;
+  font-family: 'Poppins';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* EN */
+.en {
+  color: rgba(0, 0, 0, 0.80);
+  font-size: 10px;
+  font-family: 'Poppins';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* Medium */
+.medium {
+  color: rgba(0, 0, 0, 0.80);
+  font-size: 10px;
+  font-family: 'Poppins';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* A1 */
+.a1 {
+  color: white;
+  font-size: 14.90px;
+  font-family: 'Poppins';
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+
+ 
